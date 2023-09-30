@@ -3,5 +3,5 @@ This repository contains my own coding solutions for the first 22 problems in bi
 
 **contact information**  
 * hasandaaboul4@gmail.com  
-* my rosalind account [**here**](www.rosalind.info/users/Hasan1212/).  
+* my rosalind account [**here**](https://rosalind.info/users/Hasan1212/).  
 **_coded by:_ Hasan Daaboul** 
